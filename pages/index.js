@@ -194,12 +194,12 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Animex Stream</title>
+        <title>Anime3 Stream</title>
         <link rel="manifest" href="/manifest.json" />
-        <meta property="og:title" content="Animex Stream | Watch HD Animes." />
+        <meta property="og:title" content="Anime3 Stream | Watch HD Animes." />
         <meta
           name="keywords"
-          content="animexstream,animex stream,ottoanime,otto anime,watch anime, anime online,animex stream , free anime, english anime, sites to watch anime"
+          content="Anime3stream,Anime3 stream,ottoanime,otto anime,watch anime, anime online,animex stream , free anime, english anime, sites to watch anime"
         />
         <meta name="apple-mobile-web-app-title" content="Otto Anime Stream" />
         <meta property="og:site_name" content="Otto Anime" />
